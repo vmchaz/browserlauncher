@@ -1,0 +1,27 @@
+{
+	"Browsers" : ["Firefox", "Opera", "Palemoon"],
+
+	"Firefox":
+	{
+		"Executable": "C:\\Soft\\Firefox\\Firefox.exe",
+		"Parameters": "",
+		"DirToCheck": "P:\\",
+		"Icon": "f.bmp"
+	},
+	
+	"Opera":
+	{
+		"Executable": "C:\\Program Files\\Opera\\Opera.exe",
+		"Parameters": "",
+                "DirToCheck": "P:\\",
+		"Icon": "o.bmp"
+	},
+	
+	"Palemoon":
+	{
+		"Executable": "C:\\Program Files\\Pale Moon\\palemoon.exe",
+		"Parameters": "",
+                "DirToCheck": "P:\\",
+		"Icon": "p.bmp"
+	}
+}
